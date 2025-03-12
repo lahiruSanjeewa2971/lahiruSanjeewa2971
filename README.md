@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lahiru Sanjeewa</h1>
-<h3 align="center">I'm a Full-Stack Developer.</h3>
+## Hi there! 👋 I'm Lahiru
+
+I'm a **Full-Stack Developer** with **2 years of experience** building user-friendly and reliable applications. 
 
 ---
 
