@@ -1,18 +1,36 @@
-## Hi there! 👋 I'm Lahiru
+# 👋 Hi, I'm Lahiru Sanjeewa
 
-I'm a **Full-Stack Developer** with **2 years of experience** building user-friendly and reliable applications. 
+I'm a passionate **Full Stack Developer** from 🇱🇰 Sri Lanka with 2.5+ years of experience, currently working as an Associate Software Engineer.
+
+I specialize in building robust **web** and **mobile applications** using modern technologies like React, Node.js, React Native, and MongoDB. I'm on a mission to become a world-class developer and land remote opportunities that challenge and grow my skill set.
 
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahirusanjeewa2971&label=Profile%20views&color=0e75b6&style=flat" alt="lahirusanjeewa2971" /> </p>
 
-- 🔭 I’m working on **With JavaScript & TypeScript**
+## 🔧 Tech Stack
 
-- 📫 How to reach me **rathne1997@gmail.com**
+- **Frontend**: React.js, React Native, Tailwind CSS, TypeScript, Redux
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, SQL (PostgreSQL, MySQL)
+- **Tools**: Git, GitHub, VS Code, Postman, Figma
+- **Currently Learning**: GraphQL, Docker, CI/CD (via [Full Stack Open](https://fullstackopen.com/en/))
+
+---
+
+> 👉 Visit my [portfolio website](https://lahirusanjeewa.pages.dev) for more!
 
 I'm passionate about **learning new technologies** and staying up-to-date with industry trends. I'm looking for opportunities where I can **grow, solve challenges, and contribute to exciting projects**.  
 
-🚀 **Let's connect and build something amazing!**  
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/lahirusanjeewa2971)
+- 🌐 [Portfolio](https://lahirusanjeewa.pages.dev)
+- 📧 Email: lahirusanjeewa2971@gmail.com
+
+---
+
+_Thanks for visiting my profile! If you're looking for a dedicated developer for your next project, feel free to reach out._ 🤝  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" alt="Coding" width="400"/>
