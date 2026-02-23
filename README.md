@@ -25,7 +25,7 @@ I'm passionate about **learning new technologies** and staying up-to-date with i
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/lahirusanjeewa2971)
-- 🌐 [Portfolio](https://lahirusanjeewa.pages.dev)
+- 🌐 [Portfolio](https://lahirusanjeewa.netlify.app/)
 - 📧 Email: lahirusanjeewa2971@gmail.com
 
 ---
